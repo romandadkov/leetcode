@@ -1,13 +1,15 @@
 /*
-https://leetcode.com/problems/merge-intervals/
+https://leetcode.com/problems/insert-interval/
 */
 
 class Solution {
 public:
-    vector<vector<int>> merge(vector<vector<int>>& intervals) {
-        sort(begin(intervals), end(intervals), [](auto v1, auto v2) {
-            return v1.at(0) < v2.at(0);
+    vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
+        auto pos = find_if(begin(intervals), end(intervals), [left = newInterval.at(0)](auto interval) {
+            return left < interval.at(0);
         });
+        
+        intervals.insert(pos, newInterval);
         
         vector<vector<int>> merged;
         for (auto interval : intervals) {

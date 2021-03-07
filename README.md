@@ -10,3 +10,4 @@ leetcode solutions
 |0054|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[c++](algorithms/leetcode_0054.cpp)|
 |0055|[Jump Game](https://leetcode.com/problems/jump-game/)|[c++](algorithms/leetcode_0055.cpp)|
 |0056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[c++](algorithms/leetcode_0056.cpp)|
+|0057|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[c++](algorithms/leetcode_0057.cpp)|
