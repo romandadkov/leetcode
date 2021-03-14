@@ -13,3 +13,4 @@ leetcode solutions
 |0056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[c++](algorithms/leetcode_0056.cpp)|
 |0057|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[c++](algorithms/leetcode_0057.cpp)|
 |0058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[c++](algorithms/leetcode_0058.cpp)|
+|0059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[c++](algorithms/leetcode_0059.cpp)|
