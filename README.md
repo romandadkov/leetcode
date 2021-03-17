@@ -15,3 +15,4 @@ leetcode solutions
 |0058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[c++](algorithms/leetcode_0058.cpp)|
 |0059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[c++](algorithms/leetcode_0059.cpp)|
 |0060|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)|[c++](algorithms/leetcode_0060.cpp)|
+|0061|[Rotate List](https://leetcode.com/problems/rotate-list/)|[c++](algorithms/leetcode_0061.cpp)|
