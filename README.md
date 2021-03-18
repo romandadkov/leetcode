@@ -16,3 +16,4 @@ leetcode solutions
 |0059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[c++](algorithms/leetcode_0059.cpp)|
 |0060|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)|[c++](algorithms/leetcode_0060.cpp)|
 |0061|[Rotate List](https://leetcode.com/problems/rotate-list/)|[c++](algorithms/leetcode_0061.cpp)|
+|0062|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[c++](algorithms/leetcode_0062.cpp)|
