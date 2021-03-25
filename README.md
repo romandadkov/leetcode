@@ -19,3 +19,4 @@ leetcode solutions
 |0062|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[c++](algorithms/leetcode_0062.cpp)|
 |0063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[c++](algorithms/leetcode_0063.cpp)|
 |0064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[c++](algorithms/leetcode_0064.cpp)|
+|0065|[Valid Number](https://leetcode.com/problems/valid-number/)|[c++](algorithms/leetcode_0065.cpp)|
