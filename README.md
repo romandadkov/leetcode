@@ -22,3 +22,4 @@ leetcode solutions
 |0064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[c++](algorithms/leetcode_0064.cpp)|
 |0065|[Valid Number](https://leetcode.com/problems/valid-number/)|[c++](algorithms/leetcode_0065.cpp)|
 |0066|[Plus One](https://leetcode.com/problems/plus-one/)|[c++](algorithms/leetcode_0066.cpp)|
+|0067|[Add Binary](https://leetcode.com/problems/add-binary/)|[c++](algorithms/leetcode_0067.cpp)|
