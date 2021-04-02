@@ -24,3 +24,4 @@ leetcode solutions
 |0066|[Plus One](https://leetcode.com/problems/plus-one/)|[c++](algorithms/leetcode_0066.cpp)|
 |0067|[Add Binary](https://leetcode.com/problems/add-binary/)|[c++](algorithms/leetcode_0067.cpp)|
 |0068|[Text Justification](https://leetcode.com/problems/text-justification/)|[c++](algorithms/leetcode_0068.cpp)|
+|0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[c++](algorithms/leetcode_0069.cpp)|
