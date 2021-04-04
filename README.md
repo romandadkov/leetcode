@@ -26,3 +26,4 @@ leetcode solutions
 |0068|[Text Justification](https://leetcode.com/problems/text-justification/)|[c++](algorithms/leetcode_0068.cpp)|
 |0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[c++](algorithms/leetcode_0069.cpp)|
 |0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[c++](algorithms/leetcode_0070.cpp)|
+|0071|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[c++](algorithms/leetcode_0071.cpp)|
