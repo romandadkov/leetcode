@@ -27,3 +27,4 @@ leetcode solutions
 |0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[c++](algorithms/leetcode_0069.cpp)|
 |0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[c++](algorithms/leetcode_0070.cpp)|
 |0071|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[c++](algorithms/leetcode_0071.cpp)|
+|0072|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[c++](algorithms/leetcode_0072.cpp)|
