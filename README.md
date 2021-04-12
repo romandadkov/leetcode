@@ -28,4 +28,5 @@ leetcode solutions
 |0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[c++](algorithms/leetcode_0070.cpp)|
 |0071|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[c++](algorithms/leetcode_0071.cpp)|
 |0072|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[c++](algorithms/leetcode_0072.cpp)|
+|0074|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[c++](algorithms/leetcode_0073.cpp)|
 |0074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[c++](algorithms/leetcode_0074.cpp)|
