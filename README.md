@@ -31,3 +31,4 @@ leetcode solutions
 |0073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[c++](algorithms/leetcode_0073.cpp)|
 |0074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[c++](algorithms/leetcode_0074.cpp)|
 |0075|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[c++](algorithms/leetcode_0075.cpp)|
+|0076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[c++](algorithms/leetcode_0076.cpp)|
