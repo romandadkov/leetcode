@@ -35,3 +35,4 @@ leetcode solutions
 |0076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[c++](algorithms/leetcode_0076.cpp)|
 |0077|[Combinations](https://leetcode.com/problems/combinations/)|[c++](algorithms/leetcode_00777.cpp)|
 |0078|[Subsets](https://leetcode.com/problems/subsets/)|[c++](algorithms/leetcode_00778.cpp)|
+|0079|[Word Search](https://leetcode.com/problems/word-search/)|[c++](algorithms/leetcode_00779.cpp)|
