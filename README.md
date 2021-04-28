@@ -33,6 +33,7 @@ leetcode solutions
 |0074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[c++](algorithms/leetcode_0074.cpp)|
 |0075|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[c++](algorithms/leetcode_0075.cpp)|
 |0076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[c++](algorithms/leetcode_0076.cpp)|
-|0077|[Combinations](https://leetcode.com/problems/combinations/)|[c++](algorithms/leetcode_00777.cpp)|
-|0078|[Subsets](https://leetcode.com/problems/subsets/)|[c++](algorithms/leetcode_00778.cpp)|
-|0079|[Word Search](https://leetcode.com/problems/word-search/)|[c++](algorithms/leetcode_00779.cpp)|
+|0077|[Combinations](https://leetcode.com/problems/combinations/)|[c++](algorithms/leetcode_0077.cpp)|
+|0078|[Subsets](https://leetcode.com/problems/subsets/)|[c++](algorithms/leetcode_0078.cpp)|
+|0079|[Word Search](https://leetcode.com/problems/word-search/)|[c++](algorithms/leetcode_0079.cpp)|
+|0080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[c++](algorithms/leetcode_0080.cpp)|
