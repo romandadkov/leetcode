@@ -4,6 +4,7 @@ leetcode solutions
 
 |No.|Title|Solution|
 |---|-----|--------|
+|0045|[Permutations](https://leetcode.com/problems/jump-game-ii/)|[c++](algorithms/leetcode_0045.cpp)|
 |0046|[Permutations](https://leetcode.com/problems/permutations/)|[c++](algorithms/leetcode_0046.cpp)|
 |0047|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[c++](algorithms/leetcode_0047.cpp)|
 |0048|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[c++](algorithms/leetcode_0048.cpp)|
