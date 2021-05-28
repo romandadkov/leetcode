@@ -4,6 +4,7 @@ leetcode solutions
 
 |No.|Title|Solution|
 |---|-----|--------|
+|0043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[c++](algorithms/leetcode_0043.cpp)|
 |0044|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[c++](algorithms/leetcode_0044.cpp)|
 |0045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[c++](algorithms/leetcode_0045.cpp)|
 |0046|[Permutations](https://leetcode.com/problems/permutations/)|[c++](algorithms/leetcode_0046.cpp)|
