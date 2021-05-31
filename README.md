@@ -4,6 +4,7 @@ leetcode solutions
 
 |No.|Title|Solution|
 |---|-----|--------|
+|0042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[c++](algorithms/leetcode_0042.cpp)|
 |0043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[c++](algorithms/leetcode_0043.cpp)|
 |0044|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[c++](algorithms/leetcode_0044.cpp)|
 |0045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[c++](algorithms/leetcode_0045.cpp)|
