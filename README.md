@@ -44,3 +44,4 @@ leetcode solutions
 |0079|[Word Search](https://leetcode.com/problems/word-search/)|[c++](algorithms/leetcode_0079.cpp)|
 |0080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[c++](algorithms/leetcode_0080.cpp)|
 |0081|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[c++](algorithms/leetcode_0081.cpp)|
+|0083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[c++](algorithms/leetcode_0083.cpp)|
