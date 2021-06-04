@@ -48,3 +48,4 @@ leetcode solutions
 |0083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[c++](algorithms/leetcode_0083.cpp)|
 |0084|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[c++](algorithms/leetcode_0084.cpp)|
 |0085|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|[c++](algorithms/leetcode_0085.cpp)|
+|0086|[Partition List](https://leetcode.com/problems/partition-list/)|[c++](algorithms/leetcode_0086.cpp)|
