@@ -49,3 +49,6 @@ leetcode solutions
 |0084|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[c++](algorithms/leetcode_0084.cpp)|
 |0085|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|[c++](algorithms/leetcode_0085.cpp)|
 |0086|[Partition List](https://leetcode.com/problems/partition-list/)|[c++](algorithms/leetcode_0086.cpp)|
+|0087|[Scramble String](https://leetcode.com/problems/scramble-string/)|[c++](algorithms/leetcode_0087.cpp)|
+|0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[c++](algorithms/leetcode_0088.cpp)|
+|0089|[Gray Code](https://leetcode.com/problems/gray-code/)|[c++](algorithms/leetcode_0089.cpp)|
