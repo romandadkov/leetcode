@@ -52,3 +52,6 @@ leetcode solutions
 |0087|[Scramble String](https://leetcode.com/problems/scramble-string/)|[c++](algorithms/leetcode_0087.cpp)|
 |0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[c++](algorithms/leetcode_0088.cpp)|
 |0089|[Gray Code](https://leetcode.com/problems/gray-code/)|[c++](algorithms/leetcode_0089.cpp)|
+|0090|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[c++](algorithms/leetcode_0090.cpp)|
+|0091|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[c++](algorithms/leetcode_0091.cpp)|
+|0092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[c++](algorithms/leetcode_0092.cpp)|
