@@ -55,3 +55,6 @@ leetcode solutions
 |0090|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[c++](algorithms/leetcode_0090.cpp)|
 |0091|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[c++](algorithms/leetcode_0091.cpp)|
 |0092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[c++](algorithms/leetcode_0092.cpp)|
+|0093|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|[c++](algorithms/leetcode_0093.cpp)|
+|0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[c++](algorithms/leetcode_0094.cpp)|
+|0095|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[c++](algorithms/leetcode_0095.cpp)|
