@@ -58,3 +58,5 @@ leetcode solutions
 |0093|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|[c++](algorithms/leetcode_0093.cpp)|
 |0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[c++](algorithms/leetcode_0094.cpp)|
 |0095|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[c++](algorithms/leetcode_0095.cpp)|
+|0096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[c++](algorithms/leetcode_0096.cpp)|
+|0097|[Interleaving String](https://leetcode.com/problems/interleaving-string/)|[c++](algorithms/leetcode_0097.cpp)|
