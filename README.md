@@ -60,3 +60,4 @@ leetcode solutions
 |0095|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[c++](algorithms/leetcode_0095.cpp)|
 |0096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[c++](algorithms/leetcode_0096.cpp)|
 |0097|[Interleaving String](https://leetcode.com/problems/interleaving-string/)|[c++](algorithms/leetcode_0097.cpp)|
+|0098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[c++](algorithms/leetcode_0098.cpp)|
