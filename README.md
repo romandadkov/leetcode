@@ -62,3 +62,4 @@ leetcode solutions
 |0097|[Interleaving String](https://leetcode.com/problems/interleaving-string/)|[c++](algorithms/leetcode_0097.cpp)|
 |0098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[c++](algorithms/leetcode_0098.cpp)|
 |0099|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)|[c++](algorithms/leetcode_0099.cpp)|
+|0100|[Same Tree](https://leetcode.com/problems/same-tree/)|[c++](algorithms/leetcode_0100.cpp)|
