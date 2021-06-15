@@ -63,3 +63,4 @@ leetcode solutions
 |0098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[c++](algorithms/leetcode_0098.cpp)|
 |0099|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)|[c++](algorithms/leetcode_0099.cpp)|
 |0100|[Same Tree](https://leetcode.com/problems/same-tree/)|[c++](algorithms/leetcode_0100.cpp)|
+|0101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[c++](algorithms/leetcode_0101.cpp)|
