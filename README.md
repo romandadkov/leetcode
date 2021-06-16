@@ -72,3 +72,5 @@ leetcode solutions
 |0107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[c++](algorithms/leetcode_0107.cpp)|
 |0108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[c++](algorithms/leetcode_0108.cpp)|
 |0109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|[c++](algorithms/leetcode_0109.cpp)|
+|0110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[c++](algorithms/leetcode_0110.cpp)|
+|0111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[c++](algorithms/leetcode_0111.cpp)|
