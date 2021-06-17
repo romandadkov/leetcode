@@ -74,3 +74,5 @@ leetcode solutions
 |0109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|[c++](algorithms/leetcode_0109.cpp)|
 |0110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[c++](algorithms/leetcode_0110.cpp)|
 |0111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[c++](algorithms/leetcode_0111.cpp)|
+|0112|[Path Sum](https://leetcode.com/problems/path-sum/)|[c++](algorithms/leetcode_0112.cpp)|
+|0113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[c++](algorithms/leetcode_0113.cpp)|
