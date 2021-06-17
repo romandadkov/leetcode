@@ -4,6 +4,20 @@ leetcode solutions
 
 |No.|Title|Solution|
 |---|-----|--------|
+|0115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|[c++](algorithms/leetcode_0115.cpp)|
+|0114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[c++](algorithms/leetcode_0114.cpp)|
+|0113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[c++](algorithms/leetcode_0113.cpp)|
+|0112|[Path Sum](https://leetcode.com/problems/path-sum/)|[c++](algorithms/leetcode_0112.cpp)|
+|0111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[c++](algorithms/leetcode_0111.cpp)|
+|0110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[c++](algorithms/leetcode_0110.cpp)|
+|0109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|[c++](algorithms/leetcode_0109.cpp)|
+|0108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[c++](algorithms/leetcode_0108.cpp)|
+|0107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[c++](algorithms/leetcode_0107.cpp)|
+|0106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[c++](algorithms/leetcode_0106.cpp)|
+
+
+|No.|Title|Solution|
+|---|-----|--------|
 |0042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[c++](algorithms/leetcode_0042.cpp)|
 |0043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[c++](algorithms/leetcode_0043.cpp)|
 |0044|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[c++](algorithms/leetcode_0044.cpp)|
@@ -68,11 +82,3 @@ leetcode solutions
 |0103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[c++](algorithms/leetcode_0103.cpp)|
 |0104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[c++](algorithms/leetcode_0104.cpp)|
 |0105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[c++](algorithms/leetcode_0105.cpp)|
-|0106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[c++](algorithms/leetcode_0106.cpp)|
-|0107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[c++](algorithms/leetcode_0107.cpp)|
-|0108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[c++](algorithms/leetcode_0108.cpp)|
-|0109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|[c++](algorithms/leetcode_0109.cpp)|
-|0110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[c++](algorithms/leetcode_0110.cpp)|
-|0111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[c++](algorithms/leetcode_0111.cpp)|
-|0112|[Path Sum](https://leetcode.com/problems/path-sum/)|[c++](algorithms/leetcode_0112.cpp)|
-|0113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[c++](algorithms/leetcode_0113.cpp)|
