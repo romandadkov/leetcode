@@ -4,6 +4,7 @@ leetcode solutions
 
 |No.|Title|Solution|
 |---|-----|--------|
+|0117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[c++](algorithms/leetcode_0117.cpp)|
 |0116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[c++](algorithms/leetcode_0116.cpp)|
 |0115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|[c++](algorithms/leetcode_0115.cpp)|
 |0114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[c++](algorithms/leetcode_0114.cpp)|
@@ -20,6 +21,11 @@ leetcode solutions
 |0103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[c++](algorithms/leetcode_0103.cpp)|
 |0102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[c++](algorithms/leetcode_0102.cpp)|
 |0101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[c++](algorithms/leetcode_0101.cpp)|
+|0100|[Same Tree](https://leetcode.com/problems/same-tree/)|[c++](algorithms/leetcode_0100.cpp)|
+|0099|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)|[c++](algorithms/leetcode_0099.cpp)|
+|0098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[c++](algorithms/leetcode_0098.cpp)|
+|0097|[Interleaving String](https://leetcode.com/problems/interleaving-string/)|[c++](algorithms/leetcode_0097.cpp)|
+|0096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[c++](algorithms/leetcode_0096.cpp)|
 
 
 |No.|Title|Solution|
@@ -78,8 +84,3 @@ leetcode solutions
 |0093|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|[c++](algorithms/leetcode_0093.cpp)|
 |0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[c++](algorithms/leetcode_0094.cpp)|
 |0095|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[c++](algorithms/leetcode_0095.cpp)|
-|0096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[c++](algorithms/leetcode_0096.cpp)|
-|0097|[Interleaving String](https://leetcode.com/problems/interleaving-string/)|[c++](algorithms/leetcode_0097.cpp)|
-|0098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[c++](algorithms/leetcode_0098.cpp)|
-|0099|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)|[c++](algorithms/leetcode_0099.cpp)|
-|0100|[Same Tree](https://leetcode.com/problems/same-tree/)|[c++](algorithms/leetcode_0100.cpp)|
