@@ -4,6 +4,9 @@ leetcode solutions
 
 |No.|Title|Solution|
 |---|-----|--------|
+|0123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[c++](algorithms/leetcode_0123.cpp)|
+|0122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[c++](algorithms/leetcode_0122.cpp)|
+|0121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[c++](algorithms/leetcode_0121.cpp)|
 |0120|[Triangle](https://leetcode.com/problems/triangle/)|[c++](algorithms/leetcode_0120.cpp)|
 |0119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[c++](algorithms/leetcode_0119.cpp)|
 |0118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[c++](algorithms/leetcode_0118.cpp)|
@@ -44,6 +47,16 @@ leetcode solutions
 |0083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[c++](algorithms/leetcode_0083.cpp)|
 |0082|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[c++](algorithms/leetcode_0082.cpp)|
 |0081|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[c++](algorithms/leetcode_0081.cpp)|
+|0080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[c++](algorithms/leetcode_0080.cpp)|
+|0079|[Word Search](https://leetcode.com/problems/word-search/)|[c++](algorithms/leetcode_0079.cpp)|
+|0078|[Subsets](https://leetcode.com/problems/subsets/)|[c++](algorithms/leetcode_0078.cpp)|
+|0077|[Combinations](https://leetcode.com/problems/combinations/)|[c++](algorithms/leetcode_0077.cpp)|
+|0076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[c++](algorithms/leetcode_0076.cpp)|
+|0075|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[c++](algorithms/leetcode_0075.cpp)|
+|0074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[c++](algorithms/leetcode_0074.cpp)|
+|0073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[c++](algorithms/leetcode_0073.cpp)|
+|0072|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[c++](algorithms/leetcode_0072.cpp)|
+|0071|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[c++](algorithms/leetcode_0071.cpp)|
 
 
 |No.|Title|Solution|
@@ -77,13 +90,3 @@ leetcode solutions
 |0068|[Text Justification](https://leetcode.com/problems/text-justification/)|[c++](algorithms/leetcode_0068.cpp)|
 |0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[c++](algorithms/leetcode_0069.cpp)|
 |0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[c++](algorithms/leetcode_0070.cpp)|
-|0071|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[c++](algorithms/leetcode_0071.cpp)|
-|0072|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[c++](algorithms/leetcode_0072.cpp)|
-|0073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[c++](algorithms/leetcode_0073.cpp)|
-|0074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[c++](algorithms/leetcode_0074.cpp)|
-|0075|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[c++](algorithms/leetcode_0075.cpp)|
-|0076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[c++](algorithms/leetcode_0076.cpp)|
-|0077|[Combinations](https://leetcode.com/problems/combinations/)|[c++](algorithms/leetcode_0077.cpp)|
-|0078|[Subsets](https://leetcode.com/problems/subsets/)|[c++](algorithms/leetcode_0078.cpp)|
-|0079|[Word Search](https://leetcode.com/problems/word-search/)|[c++](algorithms/leetcode_0079.cpp)|
-|0080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[c++](algorithms/leetcode_0080.cpp)|
