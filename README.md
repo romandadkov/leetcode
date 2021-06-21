@@ -4,6 +4,9 @@ leetcode solutions
 
 |No.|Title|Solution|
 |---|-----|--------|
+|0120|[Triangle](https://leetcode.com/problems/triangle/)|[c++](algorithms/leetcode_0120.cpp)|
+|0119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[c++](algorithms/leetcode_0119.cpp)|
+|0118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[c++](algorithms/leetcode_0118.cpp)|
 |0117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[c++](algorithms/leetcode_0117.cpp)|
 |0116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[c++](algorithms/leetcode_0116.cpp)|
 |0115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|[c++](algorithms/leetcode_0115.cpp)|
@@ -26,6 +29,21 @@ leetcode solutions
 |0098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[c++](algorithms/leetcode_0098.cpp)|
 |0097|[Interleaving String](https://leetcode.com/problems/interleaving-string/)|[c++](algorithms/leetcode_0097.cpp)|
 |0096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[c++](algorithms/leetcode_0096.cpp)|
+|0095|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[c++](algorithms/leetcode_0095.cpp)|
+|0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[c++](algorithms/leetcode_0094.cpp)|
+|0093|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|[c++](algorithms/leetcode_0093.cpp)|
+|0092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[c++](algorithms/leetcode_0092.cpp)|
+|0091|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[c++](algorithms/leetcode_0091.cpp)|
+|0090|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[c++](algorithms/leetcode_0090.cpp)|
+|0089|[Gray Code](https://leetcode.com/problems/gray-code/)|[c++](algorithms/leetcode_0089.cpp)|
+|0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[c++](algorithms/leetcode_0088.cpp)|
+|0087|[Scramble String](https://leetcode.com/problems/scramble-string/)|[c++](algorithms/leetcode_0087.cpp)|
+|0086|[Partition List](https://leetcode.com/problems/partition-list/)|[c++](algorithms/leetcode_0086.cpp)|
+|0085|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|[c++](algorithms/leetcode_0085.cpp)|
+|0084|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[c++](algorithms/leetcode_0084.cpp)|
+|0083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[c++](algorithms/leetcode_0083.cpp)|
+|0082|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[c++](algorithms/leetcode_0082.cpp)|
+|0081|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[c++](algorithms/leetcode_0081.cpp)|
 
 
 |No.|Title|Solution|
@@ -69,18 +87,3 @@ leetcode solutions
 |0078|[Subsets](https://leetcode.com/problems/subsets/)|[c++](algorithms/leetcode_0078.cpp)|
 |0079|[Word Search](https://leetcode.com/problems/word-search/)|[c++](algorithms/leetcode_0079.cpp)|
 |0080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[c++](algorithms/leetcode_0080.cpp)|
-|0081|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[c++](algorithms/leetcode_0081.cpp)|
-|0082|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[c++](algorithms/leetcode_0082.cpp)|
-|0083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[c++](algorithms/leetcode_0083.cpp)|
-|0084|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[c++](algorithms/leetcode_0084.cpp)|
-|0085|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|[c++](algorithms/leetcode_0085.cpp)|
-|0086|[Partition List](https://leetcode.com/problems/partition-list/)|[c++](algorithms/leetcode_0086.cpp)|
-|0087|[Scramble String](https://leetcode.com/problems/scramble-string/)|[c++](algorithms/leetcode_0087.cpp)|
-|0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[c++](algorithms/leetcode_0088.cpp)|
-|0089|[Gray Code](https://leetcode.com/problems/gray-code/)|[c++](algorithms/leetcode_0089.cpp)|
-|0090|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[c++](algorithms/leetcode_0090.cpp)|
-|0091|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[c++](algorithms/leetcode_0091.cpp)|
-|0092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[c++](algorithms/leetcode_0092.cpp)|
-|0093|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|[c++](algorithms/leetcode_0093.cpp)|
-|0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[c++](algorithms/leetcode_0094.cpp)|
-|0095|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[c++](algorithms/leetcode_0095.cpp)|
