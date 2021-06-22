@@ -4,6 +4,8 @@ leetcode solutions
 
 |No.|Title|Solution|
 |---|-----|--------|
+|0127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[c++](algorithms/leetcode_0127.cpp)|
+|0126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)|[c++](algorithms/leetcode_0126.cpp)|
 |0125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[c++](algorithms/leetcode_0125.cpp)|
 |0124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[c++](algorithms/leetcode_0124.cpp)|
 |0123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[c++](algorithms/leetcode_0123.cpp)|
@@ -69,6 +71,11 @@ leetcode solutions
 |0063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[c++](algorithms/leetcode_0063.cpp)|
 |0062|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[c++](algorithms/leetcode_0062.cpp)|
 |0061|[Rotate List](https://leetcode.com/problems/rotate-list/)|[c++](algorithms/leetcode_0061.cpp)|
+|0060|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)|[c++](algorithms/leetcode_0060.cpp)|
+|0059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[c++](algorithms/leetcode_0059.cpp)|
+|0058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[c++](algorithms/leetcode_0058.cpp)|
+|0057|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[c++](algorithms/leetcode_0057.cpp)|
+|0056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[c++](algorithms/leetcode_0056.cpp)|
 
 
 |No.|Title|Solution|
@@ -87,8 +94,3 @@ leetcode solutions
 |0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[c++](algorithms/leetcode_0053.cpp)|
 |0054|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[c++](algorithms/leetcode_0054.cpp)|
 |0055|[Jump Game](https://leetcode.com/problems/jump-game/)|[c++](algorithms/leetcode_0055.cpp)|
-|0056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[c++](algorithms/leetcode_0056.cpp)|
-|0057|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[c++](algorithms/leetcode_0057.cpp)|
-|0058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[c++](algorithms/leetcode_0058.cpp)|
-|0059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[c++](algorithms/leetcode_0059.cpp)|
-|0060|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)|[c++](algorithms/leetcode_0060.cpp)|
