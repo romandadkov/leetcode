@@ -4,6 +4,8 @@ leetcode solutions
 
 |No.|Title|Solution|
 |---|-----|--------|
+|0125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[c++](algorithms/leetcode_0125.cpp)|
+|0124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[c++](algorithms/leetcode_0124.cpp)|
 |0123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[c++](algorithms/leetcode_0123.cpp)|
 |0122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[c++](algorithms/leetcode_0122.cpp)|
 |0121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[c++](algorithms/leetcode_0121.cpp)|
@@ -57,6 +59,16 @@ leetcode solutions
 |0073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[c++](algorithms/leetcode_0073.cpp)|
 |0072|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[c++](algorithms/leetcode_0072.cpp)|
 |0071|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[c++](algorithms/leetcode_0071.cpp)|
+|0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[c++](algorithms/leetcode_0070.cpp)|
+|0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[c++](algorithms/leetcode_0069.cpp)|
+|0068|[Text Justification](https://leetcode.com/problems/text-justification/)|[c++](algorithms/leetcode_0068.cpp)|
+|0067|[Add Binary](https://leetcode.com/problems/add-binary/)|[c++](algorithms/leetcode_0067.cpp)|
+|0066|[Plus One](https://leetcode.com/problems/plus-one/)|[c++](algorithms/leetcode_0066.cpp)|
+|0065|[Valid Number](https://leetcode.com/problems/valid-number/)|[c++](algorithms/leetcode_0065.cpp)|
+|0064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[c++](algorithms/leetcode_0064.cpp)|
+|0063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[c++](algorithms/leetcode_0063.cpp)|
+|0062|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[c++](algorithms/leetcode_0062.cpp)|
+|0061|[Rotate List](https://leetcode.com/problems/rotate-list/)|[c++](algorithms/leetcode_0061.cpp)|
 
 
 |No.|Title|Solution|
@@ -80,13 +92,3 @@ leetcode solutions
 |0058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[c++](algorithms/leetcode_0058.cpp)|
 |0059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[c++](algorithms/leetcode_0059.cpp)|
 |0060|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)|[c++](algorithms/leetcode_0060.cpp)|
-|0061|[Rotate List](https://leetcode.com/problems/rotate-list/)|[c++](algorithms/leetcode_0061.cpp)|
-|0062|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[c++](algorithms/leetcode_0062.cpp)|
-|0063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[c++](algorithms/leetcode_0063.cpp)|
-|0064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[c++](algorithms/leetcode_0064.cpp)|
-|0065|[Valid Number](https://leetcode.com/problems/valid-number/)|[c++](algorithms/leetcode_0065.cpp)|
-|0066|[Plus One](https://leetcode.com/problems/plus-one/)|[c++](algorithms/leetcode_0066.cpp)|
-|0067|[Add Binary](https://leetcode.com/problems/add-binary/)|[c++](algorithms/leetcode_0067.cpp)|
-|0068|[Text Justification](https://leetcode.com/problems/text-justification/)|[c++](algorithms/leetcode_0068.cpp)|
-|0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[c++](algorithms/leetcode_0069.cpp)|
-|0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[c++](algorithms/leetcode_0070.cpp)|
