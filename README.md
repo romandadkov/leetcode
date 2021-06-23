@@ -4,6 +4,7 @@ leetcode solutions
 
 |No.|Title|Solution|
 |---|-----|--------|
+|0128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[c++](algorithms/leetcode_0128.cpp)|
 |0127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[c++](algorithms/leetcode_0127.cpp)|
 |0126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)|[c++](algorithms/leetcode_0126.cpp)|
 |0125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[c++](algorithms/leetcode_0125.cpp)|
