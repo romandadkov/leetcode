@@ -4,6 +4,7 @@ leetcode solutions
 
 |No.|Title|Solution|
 |---|-----|--------|
+|0131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[c++](algorithms/leetcode_0131.cpp)|
 |0130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[c++](algorithms/leetcode_0130.cpp)|
 |0129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[c++](algorithms/leetcode_0129.cpp)|
 |0128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[c++](algorithms/leetcode_0128.cpp)|
@@ -84,6 +85,11 @@ leetcode solutions
 |0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[c++](algorithms/leetcode_0053.cpp)|
 |0052|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[c++](algorithms/leetcode_0052.cpp)|
 |0051|[N-Queens](https://leetcode.com/problems/n-queens/)|[c++](algorithms/leetcode_0051.cpp)|
+|0050|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[c++](algorithms/leetcode_0050.cpp)|
+|0049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[c++](algorithms/leetcode_0049.cpp)|
+|0048|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[c++](algorithms/leetcode_0048.cpp)|
+|0047|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[c++](algorithms/leetcode_0047.cpp)|
+|0046|[Permutations](https://leetcode.com/problems/permutations/)|[c++](algorithms/leetcode_0046.cpp)|
 
 
 |No.|Title|Solution|
@@ -92,8 +98,3 @@ leetcode solutions
 |0043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[c++](algorithms/leetcode_0043.cpp)|
 |0044|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[c++](algorithms/leetcode_0044.cpp)|
 |0045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[c++](algorithms/leetcode_0045.cpp)|
-|0046|[Permutations](https://leetcode.com/problems/permutations/)|[c++](algorithms/leetcode_0046.cpp)|
-|0047|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[c++](algorithms/leetcode_0047.cpp)|
-|0048|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[c++](algorithms/leetcode_0048.cpp)|
-|0049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[c++](algorithms/leetcode_0049.cpp)|
-|0050|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[c++](algorithms/leetcode_0050.cpp)|
