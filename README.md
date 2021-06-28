@@ -4,6 +4,7 @@ leetcode solutions
 
 |No.|Title|Solution|
 |---|-----|--------|
+|0132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)|[c++](algorithms/leetcode_0132.cpp)|
 |0131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[c++](algorithms/leetcode_0131.cpp)|
 |0130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[c++](algorithms/leetcode_0130.cpp)|
 |0129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[c++](algorithms/leetcode_0129.cpp)|
@@ -90,11 +91,11 @@ leetcode solutions
 |0048|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[c++](algorithms/leetcode_0048.cpp)|
 |0047|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[c++](algorithms/leetcode_0047.cpp)|
 |0046|[Permutations](https://leetcode.com/problems/permutations/)|[c++](algorithms/leetcode_0046.cpp)|
+|0045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[c++](algorithms/leetcode_0045.cpp)|
+|0044|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[c++](algorithms/leetcode_0044.cpp)|
+|0043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[c++](algorithms/leetcode_0043.cpp)|
 
 
 |No.|Title|Solution|
 |---|-----|--------|
 |0042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[c++](algorithms/leetcode_0042.cpp)|
-|0043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[c++](algorithms/leetcode_0043.cpp)|
-|0044|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[c++](algorithms/leetcode_0044.cpp)|
-|0045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[c++](algorithms/leetcode_0045.cpp)|
