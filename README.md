@@ -4,6 +4,8 @@ leetcode solutions
 
 |No.|Title|Solution|
 |---|-----|--------|
+|0137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[c++](algorithms/leetcode_0137.cpp)|
+|0136|[Single Number](https://leetcode.com/problems/single-number/)|[c++](algorithms/leetcode_0136.cpp)|
 |0135|[Candy](https://leetcode.com/problems/candy/)|[c++](algorithms/leetcode_0135.cpp)|
 |0134|[Gas Station](https://leetcode.com/problems/gas-station/)|[c++](algorithms/leetcode_0134.cpp)|
 |0133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|[c++](algorithms/leetcode_0133.cpp)|
