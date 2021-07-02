@@ -4,6 +4,8 @@ leetcode solutions
 
 |No.|Title|Solution|
 |---|-----|--------|
+|0142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[c++](algorithms/leetcode_0142.cpp)|
+|0141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[c++](algorithms/leetcode_0141.cpp)|
 |0140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|[c++](algorithms/leetcode_0140.cpp)|
 |0139|[Word Break](https://leetcode.com/problems/word-break/)|[c++](algorithms/leetcode_0139.cpp)|
 |0138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[c++](algorithms/leetcode_0138.cpp)|
