@@ -4,6 +4,7 @@ leetcode solutions
 
 |No.|Title|Solution|
 |---|-----|--------|
+|0142|[Reorder List](https://leetcode.com/problems/reorder-list/)|[c++](algorithms/leetcode_0143.cpp)|
 |0142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[c++](algorithms/leetcode_0142.cpp)|
 |0141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[c++](algorithms/leetcode_0141.cpp)|
 |0140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|[c++](algorithms/leetcode_0140.cpp)|
