@@ -4,7 +4,9 @@ leetcode solutions
 
 |No.|Title|Solution|
 |---|-----|--------|
-|0142|[Reorder List](https://leetcode.com/problems/reorder-list/)|[c++](algorithms/leetcode_0143.cpp)|
+|0145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[c++](algorithms/leetcode_0145.cpp)|
+|0144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[c++](algorithms/leetcode_0144.cpp)|
+|0143|[Reorder List](https://leetcode.com/problems/reorder-list/)|[c++](algorithms/leetcode_0143.cpp)|
 |0142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[c++](algorithms/leetcode_0142.cpp)|
 |0141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[c++](algorithms/leetcode_0141.cpp)|
 |0140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|[c++](algorithms/leetcode_0140.cpp)|
