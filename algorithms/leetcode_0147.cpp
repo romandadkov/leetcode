@@ -3,7 +3,6 @@
 https://leetcode.com/problems/insertion-sort-list/
 */
 
-
 /**
  * Definition for singly-linked list.
  * struct ListNode {

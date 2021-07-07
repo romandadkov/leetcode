@@ -4,6 +4,7 @@ leetcode solutions
 
 |No.|Title|Solution|
 |---|-----|--------|
+|0148|[Sort List](https://leetcode.com/problems/sort-list/)|[c++](algorithms/leetcode_0148.cpp)|
 |0147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[c++](algorithms/leetcode_0147.cpp)|
 |0146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[c++](algorithms/leetcode_0146.cpp)|
 |0145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[c++](algorithms/leetcode_0145.cpp)|
