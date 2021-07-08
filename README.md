@@ -4,6 +4,7 @@ leetcode solutions
 
 |No.|Title|Solution|
 |---|-----|--------|
+|0149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|[c++](algorithms/leetcode_0149.cpp)|
 |0148|[Sort List](https://leetcode.com/problems/sort-list/)|[c++](algorithms/leetcode_0148.cpp)|
 |0147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[c++](algorithms/leetcode_0147.cpp)|
 |0146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[c++](algorithms/leetcode_0146.cpp)|
