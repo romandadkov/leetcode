@@ -115,4 +115,5 @@ leetcode solutions
 
 |No.|Title|Solution|
 |---|-----|--------|
+|0041|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[c++](algorithms/leetcode_0041.cpp)|
 |0042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[c++](algorithms/leetcode_0042.cpp)|
