@@ -4,6 +4,7 @@ leetcode solutions
 
 |No.|Title|Solution|
 |---|-----|--------|
+|0150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[c++](algorithms/leetcode_0150.cpp)|
 |0149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|[c++](algorithms/leetcode_0149.cpp)|
 |0148|[Sort List](https://leetcode.com/problems/sort-list/)|[c++](algorithms/leetcode_0148.cpp)|
 |0147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[c++](algorithms/leetcode_0147.cpp)|
