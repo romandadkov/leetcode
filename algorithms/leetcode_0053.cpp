@@ -43,3 +43,19 @@ public:
         return maxSum(nums, 0, nums.size() - 1);
     }
 };
+
+// alternative
+class Solution {
+public:
+    int maxSubArray(vector<int>& nums) {
+        int r = numeric_limits<int>::min();
+        int cur = 0; 
+        for (auto num : nums) {
+            cur = max(cur + num, num);
+            r = max(r, cur);
+        }
+        
+        return r;
+    }
+};
+
