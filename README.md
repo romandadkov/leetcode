@@ -4,6 +4,7 @@ leetcode solutions
 
 |No.|Title|Solution|
 |---|-----|--------|
+|0156|[Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/)|[c++](algorithms/leetcode_0156.cpp)|
 |0155|[Min Stack](https://leetcode.com/problems/min-stack/)|[c++](algorithms/leetcode_0155.cpp)|
 |0154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[c++](algorithms/leetcode_0154.cpp)|
 |0153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[c++](algorithms/leetcode_0153.cpp)|
