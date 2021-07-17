@@ -4,6 +4,8 @@ leetcode solutions
 
 |No.|Title|Solution|
 |---|-----|--------|
+|0158|[Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/)|[c++](algorithms/leetcode_0158.cpp)|
+|0157|[Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/)|[c++](algorithms/leetcode_0157.cpp)|
 |0156|[Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/)|[c++](algorithms/leetcode_0156.cpp)|
 |0155|[Min Stack](https://leetcode.com/problems/min-stack/)|[c++](algorithms/leetcode_0155.cpp)|
 |0154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[c++](algorithms/leetcode_0154.cpp)|
