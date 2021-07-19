@@ -4,6 +4,7 @@ leetcode solutions
 
 |No.|Title|Solution|
 |---|-----|--------|
+|0160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[c++](algorithms/leetcode_0160.cpp)|
 |0159|[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)|[c++](algorithms/leetcode_0159.cpp)|
 |0158|[Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/)|[c++](algorithms/leetcode_0158.cpp)|
 |0157|[Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/)|[c++](algorithms/leetcode_0157.cpp)|
